@@ -7,5 +7,4 @@ resource "github_repository" "first" {
 
   visibility = "public"
 
-
 }
